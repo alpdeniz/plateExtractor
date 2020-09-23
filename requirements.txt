@@ -1,0 +1,7 @@
+opencv_python==4.2.0.34
+imutils==0.5.3
+tensorflow-gpu==2.2.0
+tensorflow==2.2.0
+numpy==1.17.4
+Pillow==7.2.0
+python_Levenshtein==0.12.0
